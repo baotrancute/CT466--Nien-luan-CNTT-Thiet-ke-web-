@@ -1,6 +1,6 @@
-# Dạ em chào cô
+# CHÚ THÍCH CẦN THIẾT ĐỂ MỞ XEM DỰ ÁN
 
-Ở trang này em gửi cô gmail và pass dành cho admin ở trang này để cô có thể tiện chạy kiểm tra web ạ
+Ở trang này em gửi thầy/cô gmail và pass dành cho admin ở trang này để thầy/cô có thể tiện chạy kiểm tra web ạ
 
 ## baotranadmin@gmail.com
 
